@@ -1,1 +1,1 @@
-# java-method-challenge
+# java-first-method-challenge
